@@ -19,7 +19,7 @@ Built an interactive dashboard in Excel to analyze call center performance data.
 - Map for call distribution by state
 
 ## 📷 Screenshot
-![Dashboard Screenshot]([https://raw.githubusercontent.com/Abhidevloy/call-center-dashboard-excel/main/dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Abhidevloy/call-center-dashboard-excel/refs/heads/main/call%20center%20dashboard.jpg)
 
 ## 🧠 What I Learned
 - Dashboard design best practices
